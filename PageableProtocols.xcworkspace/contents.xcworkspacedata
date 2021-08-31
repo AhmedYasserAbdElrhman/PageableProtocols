@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "group:Presenter"
+      name = "Presenter">
+      <FileRef
+         location = "group:PageablePresenter.swift">
+      </FileRef>
+      <FileRef
+         location = "group:PageableView.swift">
+      </FileRef>
+   </Group>
+   <Group
+      location = "group:View"
+      name = "View">
+      <FileRef
+         location = "group:ViewController.swift">
+      </FileRef>
+      <FileRef
+         location = "group:ViewPresenter.swift">
+      </FileRef>
+   </Group>
+</Workspace>
